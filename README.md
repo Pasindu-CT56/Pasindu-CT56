@@ -105,8 +105,8 @@ Tech Stack: `Flutter` `Dart` `Supabase` `PostgreSQL` `Flutter Map` `YOLOv8`
 ## 📫 Connect With Me
 
 - GitHub: [@Pasindu-CT56](https://github.com/Pasindu-CT56)
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your professional email
+- LinkedIn: [@pasindu-randima](https://www.linkedin.com/in/pasindu-randima-506790378)
+- Email: [pasindurandima529@gmail.com](mailto:pasindurandima529@gmail.com)
 
 ## 💡 What I'm Currently Working On
 

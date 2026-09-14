@@ -19,17 +19,18 @@ I am passionate about developing user-friendly and scalable software solutions. 
 
 ### Languages and Frameworks
 
-![Tech stack](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,dart,flutter)
+![Tech stack](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,dart,flutter)
 
-### Backend, Database and Tools
+### Backend, Database and Development Tools
 
-![Tools](https://skillicons.dev/icons?i=supabase,postgresql,git,github,vscode,figma)
+![Tools](https://skillicons.dev/icons?i=supabase,postgresql,mongodb,git,github,vscode,figma)
 
-- **Frontend:** React, Flutter
-- **Backend:** Node.js, Express.js, RESTful APIs, Supabase
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript, React, Flutter
+- **Backend:** Node.js, Express.js, RESTful APIs, Supabase Authentication, Supabase Realtime
 - **Databases:** MongoDB, PostgreSQL
 - **Languages:** JavaScript, TypeScript, Dart, SQL
-- **Other technologies:** Flutter Map, YOLOv8, Git, GitHub, Figma
+- **Libraries and utilities:** date-fns, Flutter Map, YOLOv8
+- **Development tools:** Git, GitHub, VS Code, Figma, http-server
 
 ## Projects
 

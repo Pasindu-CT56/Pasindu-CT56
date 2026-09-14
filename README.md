@@ -50,9 +50,19 @@ I am an ICT undergraduate at the University of Kelaniya, specializing in Softwar
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Other technologies: `RESTful APIs` `Supabase Realtime` `Flutter Map` `YOLOv8` `date-fns` `http-server`
+Other technologies: `RESTful APIs` `Supabase Realtime` `React Router` `Axios` `Mongoose` `JWT` `bcryptjs` `dotenv` `Flutter Map` `YOLOv8` `date-fns` `http-server` `Postman`
 
 ## 💼 Featured Projects
+
+### 🎓 [SWST-32043 University Course Registration Portal](https://github.com/Pasindu01262/SWST-32043-Mini-Project)
+
+A full-stack MERN application that digitizes university course registration and administration. The role-based platform helps students quickly enroll in relevant courses while administrators manage courses, lecturers, grades, and student records.
+
+**My contribution:** Developed the Course Management module by implementing CRUD operations, RESTful APIs, and MongoDB integration using the MERN stack.
+
+Tech Stack: `React` `Vite` `React Router DOM` `Axios` `Node.js` `Express.js` `MongoDB Atlas` `Mongoose` `JWT` `bcryptjs`
+
+📌 Collaborative academic project with feature-branch development, Postman testing, code review, and GitHub-based integration.
 
 ### 🚗 [Apex Auto Service System](https://github.com/Pasindu-CT56/Apex-Auto-Service-System)
 

@@ -52,7 +52,19 @@ I am an ICT undergraduate at the University of Kelaniya, specializing in Softwar
 
 Other technologies: `RESTful APIs` `Supabase Realtime` `React Router` `Axios` `Mongoose` `JWT` `bcryptjs` `dotenv` `Flutter Map` `YOLOv8` `date-fns` `http-server` `Postman`
 
+Additional technologies: `Vite` `Tailwind CSS` `React Hot Toast` `React Modal` `Google OAuth` `Nodemailer` `CORS`
+
 ## 💼 Featured Projects
+
+### 🖥️ [iComputers - Computer and Electronics Store](https://github.com/Pasindu-CT56/i-computers-frontend)
+
+**Frontend:** [i-computers-frontend](https://github.com/Pasindu-CT56/i-computers-frontend) · **Backend:** [i-computers-backend](https://github.com/Pasindu-CT56/i-computers-backend)
+
+A full-stack MERN e-commerce application for a computer and electronics store. Customers can browse and search products, manage a shopping cart, place orders, leave product reviews, and authenticate with email or Google. The admin panel supports product, order, and user management.
+
+Tech Stack: `React 19` `Vite` `Tailwind CSS` `React Router v7` `Axios` `Node.js` `Express 5` `MongoDB` `Mongoose` `JWT` `Nodemailer` `Supabase Storage`
+
+📌 Personal learning project focused on building a complete MERN e-commerce workflow with customer and admin experiences.
 
 ### 🎓 [SWST-32043 University Course Registration Portal](https://github.com/Pasindu01262/SWST-32043-Mini-Project)
 

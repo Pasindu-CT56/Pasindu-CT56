@@ -66,6 +66,14 @@ Tech Stack: `React 19` `Vite` `Tailwind CSS` `React Router v7` `Axios` `Node.js`
 
 📌 Personal learning project focused on building a complete MERN e-commerce workflow with customer and admin experiences.
 
+### 💼 [Job Application Tracker](https://github.com/Pasindu-CT56/job-application-tracker)
+
+A work-in-progress Kanban-style job application tracker that helps users organize and manage their job search. Users can sign up and sign in, automatically create a personal `Job Hunt` board, and track applications across default workflow columns such as Wish List, Applied, Interviewing, Offer, and Rejected.
+
+Tech Stack: `Next.js 16` `React 19` `TypeScript` `Better Auth` `MongoDB` `Mongoose` `Tailwind CSS` `Radix UI` `Lucide React`
+
+📌 Personal learning project focused on authentication, MongoDB persistence, server actions, and building a full-stack Kanban dashboard.
+
 ### 🎓 [SWST-32043 University Course Registration Portal](https://github.com/Pasindu01262/SWST-32043-Mini-Project)
 
 A full-stack MERN application that digitizes university course registration and administration. The role-based platform helps students quickly enroll in relevant courses while administrators manage courses, lecturers, grades, and student records.
